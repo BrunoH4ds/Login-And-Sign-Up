@@ -8,6 +8,10 @@ Este foi um programa totalmente em python feito com nenhum fim. diria que foi ap
  baixe o arquivo .zip com nome de LandS e depois descompacte o arquivo .zip e rode o main.py 
  no codigo fonte tem apenas 1 usuario com senha ja cadastrado onde o Gmail e **admin@gmail.com** e a senha e **adminnotoque1234**
 
- 
+ # Possiveis Erros na execucao
+
+dependendo de como voce extrair e qual extrator de arquivos voce usar ele pode criar uma pasta duplicada e caso isso aconteca ele nao vai rodar o codigo por nao encontrar o caminho entao pegue a pasta com os arquivos e arraste para fora da pasta duplicada e tente rodar novamente que deve dar certo.
+
 o codigo nao tem muito mais do que a pagina de login e sign up porem foi para fins de diversao e adquerir conhecimento por isso nao trabalhei mais com o codigo 
 Obrigado Todos, Thank you all.
+
