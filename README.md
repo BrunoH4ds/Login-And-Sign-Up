@@ -4,7 +4,7 @@ Este foi um programa totalmente em python feito com nenhum fim. diria que foi ap
 
 # Como usar 
 
- baixe o arquivo .zip com nome de LandS e depois descompacte o arquivo .zip e rode o main.py 
+ baixe o arquivo .zip com nome de Login and sign up e depois descompacte o arquivo .zip e rode o main.pyw
  
  basta apenas executalo em algum programa de edicao e criacao de codigo Como o Visual Studio Code,Replit,Python entre outros
  
